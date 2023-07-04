@@ -16,3 +16,5 @@ for argument in sys.argv:
         sys.exit(1)
 
 print(total)
+
+#I need to practice more with this 
